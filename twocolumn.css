@@ -1,0 +1,39 @@
+article ul li {
+	list-style-type: none;
+}
+
+main {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+body {
+	background-color: DarkBlue;
+}
+.index {
+	display: flex;
+	background-color: LightBlue;
+	justify-content: center;
+	padding: 40px;
+	margin: 20px;
+
+}
+
+.sonnet {
+	background-color: Blue;
+	display: flex;
+	background-color: LightBlue;
+	padding: 40px;
+	margin: 20px;
+}
+.copyright {
+	background-color: DarkBlue;
+	color: White;
+}
+footer {
+	display: flex;
+	align-items: top;
+	padding: 40px;
+	margin-top: 1px;
+}
